@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import downloadIcon from '../assets/icon-downloads.png'
 import ratingIcon from '../assets/icon-ratings.png'
 import reviewIcon from '../assets/icon-review.png'
-import { useParams } from 'react-router';
+import { Link, useParams } from 'react-router';
 import useAppsData from '../Hook/reacthook';
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
 import { toast } from 'react-toastify';
@@ -44,7 +44,7 @@ const AppDetail = () => {
 
 
     const handleAddToStorage = (app) => {
-
+        
         let oldApps = JSON.parse(localStorage.getItem("apps")) || [];
         let totalApps = [];
         if (oldApps) {
@@ -56,6 +56,7 @@ const AppDetail = () => {
         else {
             totalApps.push(app)
         }
+        toast(`${app.title} Installed`)
         localStorage.setItem("apps", JSON.stringify(totalApps));
     }
 
