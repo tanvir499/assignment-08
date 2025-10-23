@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://i.ibb.co.com/QFKT5J6k/download.png",
+    "title": "PhotoMaster",
+    "companyName": "PixelSoft",
+    "id": 1,
+    "description": "PhotoMaster is a next-generation photo editing app designed for both beginners and professionals. With a sleek, intuitive interface, it allows users to enhance, retouch, and transform photos using AI-powered filters and advanced color correction tools. Whether you want to remove blemishes, adjust lighting, or create artistic effects, PhotoMaster offers everything in one place. The app supports RAW editing, cloud saving, and instant sharing to social media. Its intelligent auto-enhancement feature analyzes each image and applies optimal adjustments for perfect results. With frequent updates and new filters, PhotoMaster ensures every picture tells a story worth sharing.",
+    "size": 45,
+    "reviews": "125M",
+    "ratingAvg": 4.5,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Nd5dnqCq/Youtube.png",
+    "title": "Youtube",
+    "companyName": "NextGen Apps",
+    "id": 2,
+    "description": "YouTube is a dynamic video platform that connects creators and viewers worldwide. With millions of channels, it offers entertainment, education, news, and inspiration in one app. Users can stream high-quality videos, create playlists, subscribe to favorite channels, and upload their own content effortlessly. YouTube\u2019s recommendation engine helps discover trending topics and personalized content based on interests. Its live streaming and community features promote real-time interaction between creators and fans. The app also supports offline downloads and background playback. Whether you want tutorials, music videos, or daily vlogs, YouTube brings the world\u2019s stories to your screen anytime, anywhere.",
+    "size": 32,
+    "reviews": "98M",
+    "ratingAvg": 4.2,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/35Q8XPhn/Fit-Track.png",
+    "title": "FitTrack",
+    "companyName": "HealthZone",
+    "id": 3,
+    "description": "FitTrack is a complete fitness companion that helps you monitor your workouts, nutrition, and health goals in real time. With detailed analytics, progress charts, and custom workout plans, it adapts to your fitness level and lifestyle. Whether you are running, cycling, or weight training, FitTrack records every activity accurately using built-in GPS and sensors. The app integrates seamlessly with smartwatches and heart-rate monitors, offering insights into calories burned, hydration, and sleep quality. Personalized reminders and motivational tips keep you consistent. FitTrack\u2019s user-friendly interface makes fitness tracking enjoyable, helping you stay healthy, active, and motivated every single day.",
+    "size": 50,
+    "reviews": "152M",
+    "ratingAvg": 4.7,
+    "downloads": "82M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 9100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7N8PL6Ps/Note.png",
+    "title": "NoteEase",
+    "companyName": "CloudSync Ltd",
+    "id": 4,
+    "description":  "NoteEase is your smart note-taking companion designed for simplicity and productivity. Write down your thoughts, ideas, and to-do lists effortlessly. With automatic cloud sync, your notes stay safe and accessible across all devices. Organize your content using tags, folders, and colors for quick access. The app supports voice notes, checklists, and handwriting options for flexible use. You can even collaborate with others by sharing notes in real-time. Whether you’re a student, professional, or creative thinker, NoteEase helps you stay organized and focused every day.",
+    "size": 20,
+    "reviews": "78M",
+    "ratingAvg": 4.3,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HfYXgP3b/buddy.jpg",
+    "title": "BudgetBuddy",
+    "companyName": "FinWise",
+    "id": 5,
+    "description": "BudgetBuddy helps you manage your finances effortlessly and make smarter money decisions. Track expenses, set monthly budgets, and view your spending habits through easy-to-read charts. The app categorizes your transactions automatically and provides insights to help you save more. You can set financial goals and receive reminders to stay on track. BudgetBuddy ensures your data stays secure with bank-level encryption. Whether you’re planning a trip or saving for your future, it’s the perfect tool for personal and family budgeting, making financial management simple and stress-free.",
+    "size": 28,
+    "reviews": "89M",
+    "ratingAvg": 4.4,
+    "downloads": "30M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3mfyL6Px/learnify.png",
+    "title": "Learnify",
+    "companyName": "EduSpark",
+    "id": 6,
+    "description": "Learnify is your all-in-one learning platform that makes education accessible anytime, anywhere. Explore thousands of online courses in programming, design, marketing, and more. Track your progress, take quizzes, and earn certificates to boost your career. With video lectures, notes, and interactive exercises, learning becomes engaging and easy to follow. The app also recommends courses based on your interests and performance. Whether you’re a student or professional, Learnify empowers you to learn at your own pace and upgrade your skills from the comfort of your home.",
+    "size": 60,
+    "reviews": "17M",
+    "ratingAvg": 4.6,
+    "downloads": "91M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 8400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JW3KyGZj/weather-pro.png",
+    "title": "WeatherPro",
+    "companyName": "SkyTech",
+    "id": 7,
+    "description": "WeatherPro delivers accurate weather forecasts and real-time updates for your location. Get hourly, daily, and weekly weather predictions with radar maps and satellite imagery. The app alerts you about storms, rain, and severe weather so you can plan ahead safely. You can customize notifications for favorite cities or travel destinations. With detailed temperature, humidity, and wind speed data, WeatherPro keeps you fully informed. Its clean design and minimal battery usage make it perfect for everyday use, ensuring you’re always ready for any weather condition.",
+    "size": 25,
+    "reviews": "64M",
+    "ratingAvg": 4.1,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/d4V1Thnn/music-wave.png",
+    "title": "MusicWave",
+    "companyName": "TuneLab",
+    "id": 8,
+    "description": "MusicWave lets you stream and enjoy millions of songs across every genre. Discover new artists, create custom playlists, and listen offline wherever you go. The app offers high-quality sound, curated recommendations, and exclusive releases from top musicians. Personalize your experience with themed playlists and mood-based music suggestions. With its sleek interface and smart search, finding your favorite tracks is effortless. Whether you’re working out, studying, or relaxing, MusicWave brings you the perfect soundtrack for every moment, keeping your world in rhythm and harmony.",
+    "size": 75,
+    "reviews": "22M",
+    "ratingAvg": 4.8,
+    "downloads": "1500M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 13800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/r2VBNGFZ/mindspace.png",
+    "title": "MindSpace",
+    "companyName": "Calmify Co.",
+    "id": 9,
+    "description": "MindSpace is your personal companion for relaxation, mindfulness, and mental well-being. The app offers guided meditations, breathing exercises, and sleep stories to help you reduce stress and anxiety. With daily mindfulness challenges and progress tracking, you can build healthy mental habits. Its soothing music and calm visuals create a peaceful environment for self-reflection. MindSpace is perfect for beginners and experienced meditators alike. Take control of your emotional health, improve focus, and achieve better sleep — all in one beautifully designed app made to bring peace into your everyday life.",
+    "size": 40,
+    "reviews": "10M",
+    "ratingAvg": 4.7,
+    "downloads": "48M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVTFckVg/gamehub.png",
+    "title": "GameHub",
+    "companyName": "PlayWorld",
+    "id": 10,
+    "description":"GameHub brings together all your favorite games in one exciting platform. Explore trending titles, read reviews, and play instantly without switching between multiple apps. It features leaderboards, achievements, and friend challenges to make gaming more social and competitive. You can also stream live matches and connect with other gamers globally. GameHub updates daily to showcase the newest and most popular games. Whether you’re into action, puzzles, or strategy, this app keeps your gaming world organized and fun, turning every session into an adventure worth sharing.",
+    "size": 85,
+    "reviews": "20M",
+    "ratingAvg": 4.4,
+    "downloads": "130M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/21JrgVrK/Travel-Mate.png",
+    "title": "TravelMate",
+    "companyName": "GoGlobal",
+    "id": 11,
+    "description":"TravelMate is your ultimate travel planning assistant, helping you explore the world with ease. Book flights, hotels, and rental cars all from one place. The app offers detailed itineraries, destination guides, and real-time flight updates. With built-in maps and currency converters, TravelMate ensures a smooth travel experience wherever you go. It also suggests hidden gems, local attractions, and food spots based on your preferences. Whether it’s a business trip or a weekend getaway, TravelMate takes care of every detail so you can focus on creating unforgettable memories.",
+    "size": 55,
+    "reviews": "90M",
+    "ratingAvg": 4.3,
+    "downloads": "47M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6JrTB8qm/ok.png",
+    "title": "ChatGo",
+    "companyName": "ConnectMe",
+    "id": 12,
+    "description": "ChatGo is a fast, secure, and reliable messaging app built for effortless communication. Chat with your friends, create group conversations, and share photos, videos, or voice notes instantly. With end-to-end encryption, your conversations stay completely private. The app supports video calls, stickers, and custom themes to make chatting more fun and expressive. It’s lightweight, responsive, and works perfectly even with low network connectivity. ChatGo keeps you connected to your loved ones anytime, anywhere, offering a smooth and enjoyable chatting experience designed for today’s digital lifestyle.",
+    "size": 68,
+    "reviews": "31M",
+    "ratingAvg": 4.6,
+    "downloads": "18M",
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 20500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/x8779hPB/news.png",
+    "title": "NewsNow",
+    "companyName": "MediaPro",
+    "id": 13,
+    "description":  "NewsNow keeps you informed with real-time news updates from trusted sources worldwide. Browse trending stories in politics, sports, technology, and entertainment — all in one app. Personalize your feed based on topics you care about most. With breaking news alerts and offline reading mode, you’ll never miss an important update. The app’s clean design and fast loading make it easy to stay up-to-date. Whether you’re following global headlines or local stories, NewsNow brings accurate, unbiased journalism right to your fingertips every minute of the day.",
+    "size": 35,
+    "reviews": "72M",
+    "ratingAvg": 4.1,
+    "downloads": "210M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Pz6b5ph6/ok.jpg",
+    "title": "LangLearn",
+    "companyName": "LingoPro",
+    "id": 14,
+    "description": "LangLearn makes mastering new languages engaging and effective. Practice speaking, listening, reading, and writing with interactive lessons built by experts. The app offers vocabulary drills, pronunciation feedback, and daily challenges to keep you motivated. You can chat with native speakers and track your improvement over time. LangLearn supports dozens of languages, including English, Spanish, French, and Japanese. With offline lessons and progress syncing, it’s perfect for learners on the go. Build confidence in real-life conversations and achieve your language goals faster with LangLearn by your side.",
+    "size": 58,
+    "reviews": "15M",
+    "ratingAvg": 4.6,
+    "downloads": "82M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jvLGh1KW/wp.jpg",
+    "title": "whatsapp",
+    "companyName": "BuySmart",
+    "id": 15,
+    "description":  "WhatsApp is a simple, reliable, and private messaging app used by millions worldwide. Send text messages, voice notes, and photos instantly, or make high-quality voice and video calls for free. With end-to-end encryption, your conversations are completely secure. Create group chats, share documents, and express yourself with stickers and emojis. WhatsApp also supports status updates, letting you share moments with your contacts. It works seamlessly on all networks and devices, keeping you connected wherever you are. Communicate freely and safely with WhatsApp — your all-in-one messaging solution.",
+    "size": 90,
+    "reviews": "25M",
+    "ratingAvg": 4.5,
+    "downloads": "25M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+}
+]
