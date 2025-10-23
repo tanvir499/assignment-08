@@ -10,9 +10,6 @@ const Apps = () => {
     const bodyApps = apps.slice(0, 8)
     console.log(bodyApps);
 
-
-
-
     return (
         <div>
             <div className='text-center'>
