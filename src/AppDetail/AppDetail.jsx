@@ -7,6 +7,7 @@ import useAppsData from '../Hook/reacthook';
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
 import { toast } from 'react-toastify';
 import { useEffect } from 'react';
+import errorImg from '../assets/App-Error.png'
 
 const AppDetail = () => {
 
@@ -19,14 +20,25 @@ const AppDetail = () => {
     const { apps } = useAppsData();
     const app = apps.find(p => p.id === parseInt(id))
     useEffect(() => {
-    if (!app) return;
-    const installedApps = JSON.parse(localStorage.getItem("apps")) || [];
-    const alreadyInstalled = installedApps.some(p => p.id === app.id);
-    if (alreadyInstalled) setInstall(true);
-     }, [app]);
+        if (!app) return;
+        const installedApps = JSON.parse(localStorage.getItem("apps")) || [];
+        const alreadyInstalled = installedApps.some(p => p.id === app.id);
+        if (alreadyInstalled) setInstall(true);
+    }, [app]);
     if (!app) {
         return (<div>
-            <p className="text-center mt-20 text-gray-500 text-xl">Loading app details...</p>;
+            <div className='flex justify-center items-center mt-20'>
+                <div className='text-center space-y-6 mb-10 md:mb-15'>
+                    <div className='flex items-center justify-center'>
+                        <img src={errorImg} alt="" />
+                    </div>
+                    <h1 className='font-bold text-4xl'>OPPS!! APP NOT FOUND</h1>
+                    <p className='text-gray-400 text-xl'>The App you are requesting is not found on our system.  please try another apps</p>
+                    <Link to='/' className='text-white rounded-sm font-semibold py-3 px-6 bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>
+                        Back to Home
+                    </Link>
+                </div>
+            </div>
         </div>)
     }
 
